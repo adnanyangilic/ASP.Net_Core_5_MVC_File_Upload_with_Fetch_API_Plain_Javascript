@@ -1,0 +1,2 @@
+# ASP.Net_Core_5_MVC_File_Upload_with_Fetch_API_Plain_Javascript
+Files are uploaded to wwwRoot folder
